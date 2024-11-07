@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.5)  16 OCT 2024 12:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.5)  7 NOV 2024 19:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1282,7 +1282,7 @@ LaTeX Info: Redefining \nameref on input line 26.
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-<figs/logo.jpg, id=71, 642.4pt x 642.4pt>
+<figs/logo.jpg, id=87, 642.4pt x 642.4pt>
 File: figs/logo.jpg Graphic file (type jpg)
 <use figs/logo.jpg>
 Package pdftex.def Info: figs/logo.jpg  used on input line 51.
@@ -1322,6 +1322,29 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
 (./main.toc
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 11
+.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 11
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1434,7 +1457,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 Chapter 4.
-
+(./chapters/probability.tex) (./chapters/prob2.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1450,7 +1473,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 Chapter 5.
-
+(./chapters/combinations.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1462,10 +1485,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10
+ [10]
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 3
+2.
 
-]
-Chapter 6.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 32.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1478,33 +1506,38 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12
+ [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13])
+(./chapters/comb.tex
+Overfull \hbox (4.10156pt too wide) in paragraph at lines 4--5
+[]\OT1/cmr/m/n/10.95 Let $\OML/cmm/m/it/10.95 E\OT1/cmr/m/n/10.95 (\OML/cmm/m/i
+t/10.95 n\OT1/cmr/m/n/10.95 )$ de-note the sum of the even dig-its of $\OML/cmm
+/m/it/10.95 n$\OT1/cmr/m/n/10.95 . For ex-am-ple, $\OML/cmm/m/it/10.95 E\OT1/cm
+r/m/n/10.95 (1243) =
+ []
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+Chapter 6.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15
 
 ]
-Chapter 7.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14
-
-]
-Chapter 8.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1513,7 +1546,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [16
 
 ]
-Chapter 9.
+Chapter 7.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1529,8 +1562,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [18
 
 ]
-Chapter 10.
-
+Chapter 8.
+(./chapters/algebra.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1542,27 +1575,43 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20
-
-]
-Chapter 11.
-
+ [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Warning: Command \textless invalid in math mode on input line 55.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 55.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 55.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 55.
+
+
+Overfull \hbox (13.3982pt too wide) in paragraph at lines 57--62
+[]\OT1/cmr/m/n/10.95 Show that the in-equal-ity $[][] [][] [] \OMS/cmsy/m/n/10.
+95 ^^T [][] [][] []$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22
 
-]
-Chapter 12.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [22]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1574,7 +1623,492 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24
+ [24]
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 114.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 114.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 116.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 116.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 116.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 116.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 116.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 116.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 116.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 116.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 119.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 119.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 119.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 119.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 122.
+
+
+Overfull \hbox (63.14821pt too wide) in paragraph at lines 122--123
+[]\OT1/cmr/m/n/10.95 Find all real-valued func-tions on the re-als such that $[
+] [] =
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26])
+(./chapters/alg.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27])
+(./chapters/alg1.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28])
+(./chapters/alg2.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
+Chapter 9.
+(./chapters/geometry.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+
+LaTeX Warning: Command \textless invalid in math mode on input line 98.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 98.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 98.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 98.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 100.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 100.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 101.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 101.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 101.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 101.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
+Overfull \hbox (14.63652pt too wide) in paragraph at lines 102--103
+\OT1/cmr/m/n/10.95 tween $\OML/cmm/m/it/10.95 OA$ \OT1/cmr/m/n/10.95 and $\OML/
+cmm/m/it/10.95 OX$ \OT1/cmr/m/n/10.95 in ra-di-ans coun-tr-clock-wise from $\OM
+L/cmm/m/it/10.95 OA []$\OT1/cmr/m/n/10.95 .
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45]
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 173.
+
+
+LaTeX Warning: Command \textgreater invalid in math mode on input line 173.
+
+
+Underfull \vbox (badness 7397) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46]
+
+LaTeX Warning: Command \textless invalid in math mode on input line 187.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 187.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [47]
+Underfull \vbox (badness 2884) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48]
+Underfull \vbox (badness 3271) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49])
+(./chapters/geom.tex
+<figs/permo.jpg, id=536, 679.53876pt x 232.87pt>
+File: figs/permo.jpg Graphic file (type jpg)
+<use figs/permo.jpg>
+Package pdftex.def Info: figs/permo.jpg  used on input line 7.
+(pdftex.def)             Requested size: 360.0pt x 123.3672pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50 <./figs/permo.jpg>]) (./chapters/geo1.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51])
+(./chapters/geo2.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [52])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [53]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [54
+
+]
+Chapter 10.
+(./chapters/dis.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [55]
+<figs/img1.jpg, id=582, 377.41pt x 220.825pt>
+File: figs/img1.jpg Graphic file (type jpg)
+<use figs/img1.jpg>
+Package pdftex.def Info: figs/img1.jpg  used on input line 29.
+(pdftex.def)             Requested size: 360.0pt x 210.6384pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57 <./figs/img1.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [58])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [59]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [60
+
+]
+Chapter 11.
+(./chapters/numbertheory.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61]
+Overfull \hbox (56.68729pt too wide) detected at line 29
+[]
+ []
+
+
+Underfull \vbox (badness 2951) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [63]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [64]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65]
+Underfull \vbox (badness 3769) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [66]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [68]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+42.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 142.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [69])
+(./chapters/num.tex) (./chapters/num1.tex
+
+LaTeX Warning: Command \textless invalid in math mode on input line 2.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 2.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 2.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 2.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [71]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [72
+
+]
+Chapter 12.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [73]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [74
 
 ]
 Chapter 13.
@@ -1584,31 +2118,44 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25]
+ [75]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26
+ [76
 
 ]
 Chapter 14.
+(./chapters/fun1.tex) (./chapters/fun2.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77]
+Underfull \vbox (badness 3780) has occurred while \output is active []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27]
+ [78]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28
+ [79])
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80]
 Chapter 15.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1616,39 +2163,72 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29]
+ [81
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30
+ [82
+
+]
+Chapter 16.
+(./chapters/tri1.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [83]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [84
 
 ]
 No file main.ind.
 (./main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: DB7CBF5B04F95B4262CF471D8CD9464A;1609.
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: D1D525ABC11234AC104E5F375FC68D4E;2188
+(rerunfilecheck)             After:  9496A375919E4C6546ACDEEA4456740E;2422.
  ) 
 Here is how much of TeX's memory you used:
- 31858 strings out of 478287
- 619608 string characters out of 5849290
- 1038541 words of memory out of 5000000
- 49302 multiletter control sequences out of 15000+600000
- 472421 words of font info for 39 fonts, out of 8000000 for 9000
+ 32441 strings out of 478287
+ 626610 string characters out of 5849290
+ 1045541 words of memory out of 5000000
+ 49449 multiletter control sequences out of 15000+600000
+ 480837 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 218i,8n,217p,432b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 218i,14n,217p,1463b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmssbx10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
-rm0800.pfb>
-Output written on main.pdf (37 pages, 132623 bytes).
+t/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfrm0800.pfb>
+Output written on main.pdf (91 pages, 411637 bytes).
 PDF statistics:
- 293 PDF objects out of 1000 (max. 8388607)
- 238 compressed objects within 3 object streams
- 52 named destinations out of 1000 (max. 500000)
- 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 942 PDF objects out of 1000 (max. 8388607)
+ 805 compressed objects within 9 object streams
+ 388 named destinations out of 1000 (max. 500000)
+ 188 words of extra memory for PDF output out of 10000 (max. 10000000)
 
