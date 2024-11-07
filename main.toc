@@ -5,19 +5,20 @@
 \contentsline {chapter}{\numberline {3}Intersection of Conics}{5}{chapter.3}%
 \contentsline {chapter}{\numberline {4}Probability}{7}{chapter.4}%
 \contentsline {chapter}{\numberline {5}permutation and combination}{9}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Construction}{15}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Optimization}{17}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Algebra}{19}{chapter.8}%
-\contentsline {section}{FUNCTION EQUATIONS}{27}{Item.68}%
-\contentsline {chapter}{\numberline {9}Geometry}{31}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Discrete}{55}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Number Systems}{61}{chapter.11}%
-\contentsline {section}{ALGEBRA}{66}{Item.220}%
-\contentsline {section}{MATHEMATICAL ANALYSIS}{67}{Item.222}%
-\contentsline {chapter}{\numberline {12}Differentiation}{73}{chapter.12}%
-\contentsline {chapter}{\numberline {13}Integration}{75}{chapter.13}%
-\contentsline {chapter}{\numberline {14}Functions}{77}{chapter.14}%
-\contentsline {section}{COMBINATOMICS}{79}{Item.258}%
-\contentsline {section}{GRAPH THEORY}{79}{Item.259}%
-\contentsline {chapter}{\numberline {15}Matrices}{81}{chapter.15}%
-\contentsline {chapter}{\numberline {16}Trignometry}{83}{chapter.16}%
+\contentsline {section}{ Algebra}{15}{Item.29}%
+\contentsline {chapter}{\numberline {6}Construction}{17}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Optimization}{19}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Algebra}{21}{chapter.8}%
+\contentsline {section}{FUNCTION EQUATIONS}{29}{Item.74}%
+\contentsline {chapter}{\numberline {9}Geometry}{33}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Discrete}{57}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Number Systems}{63}{chapter.11}%
+\contentsline {section}{ALGEBRA}{68}{Item.232}%
+\contentsline {section}{MATHEMATICAL ANALYSIS}{69}{Item.234}%
+\contentsline {chapter}{\numberline {12}Differentiation}{77}{chapter.12}%
+\contentsline {chapter}{\numberline {13}Integration}{79}{chapter.13}%
+\contentsline {chapter}{\numberline {14}Functions}{81}{chapter.14}%
+\contentsline {section}{COMBINATOMICS}{83}{Item.278}%
+\contentsline {section}{GRAPH THEORY}{83}{Item.279}%
+\contentsline {chapter}{\numberline {15}Matrices}{85}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Trignometry}{87}{chapter.16}%
