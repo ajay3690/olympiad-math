@@ -3,9 +3,9 @@
 	\item
 The Bank of Oslo issues two types of coin: aluminium \brak{denoted \ A} and bronze \brak{denoted \ B}. Marianne has $n$ aluminium coins and $n$ bronze coins, arranged in a row in some arbitrary initial order. A chain is any subsequence of consecutive coins of the same type. Given a fixed positive integer $k$ $\leq$ $2n$, Marianne repeatedly performs the following operation: she identifies the longest chain containing the $k^{th}$  coin from the left, and movees all coins in that chain to the left end of the row. For example, if $n = 4$ and $k = 4$, the process starting from the ordering $AABBBABA$
  would be 
-\begin{center}
+\begin{align}
 $A A \underline{B} B B A B A \rightarrow B B B \underline{A} A A B A \rightarrow A A \underline{A} B B B B A \rightarrow B B B \underline{B} A A A A \rightarrow ....$ 
-\end{center}
+\end{align}
 Find all pairs \brak{n,k} with $\brak{1 \leq k \leq 2n }$ such that for every initial ordering, at some moment during the process, the leftmost \brak {n} coins will all be of the same type. 
 \hfill(IMO 2022)
 \item
@@ -32,9 +32,9 @@ iangle containing two red circles.
 In terms of  $n$, find the greatest $k$ such that in each $Japanese \ triangle$ there is a $ninja \ path$ containing at least  $k$ red circles. \hfill(IMO 2023)
 \item
 Determine all pairs  $\brak{a, b}$  of positive integers for which there exist positive integers  $g$ and $N$ 
-Such that \begin{center}
+Such that \begin{align}
 gcd $\brak{a^{n} + b, b + a} = g$
-\end{center}
+\end{align}
 Holds for all integers $n \geq N$. Note that $\gcd\brak{x, y}$ denotes the greatest common divisor of integers $x$ and $y$. \hfill(IMO 2024)
 \item
 Let  $a_{1}, a_{2}, a_{3}, \ldots$  be an infinite sequence of positive integers, and let $N$  be a positive integer. Suppose that, for each  $n \ge N$ ,  $an$ is equal to the number of times  $an$ appears in the list  $a_{1}, a_{2}, \ldots, a_{n-1}$. 
