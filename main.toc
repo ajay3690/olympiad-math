@@ -12,12 +12,10 @@
 \contentsline {chapter}{\numberline {9}Geometry}{37}{chapter.9}%
 \contentsline {chapter}{\numberline {10}Discrete}{75}{chapter.10}%
 \contentsline {chapter}{\numberline {11}Number Systems}{83}{chapter.11}%
-\contentsline {section}{ALGEBRA}{88}{Item.315}%
-\contentsline {section}{MATHEMATICAL ANALYSIS}{89}{Item.317}%
 \contentsline {chapter}{\numberline {12}Differentiation}{103}{chapter.12}%
 \contentsline {chapter}{\numberline {13}Integration}{105}{chapter.13}%
 \contentsline {chapter}{\numberline {14}Functions}{107}{chapter.14}%
-\contentsline {section}{COMBINATOMICS}{109}{Item.389}%
-\contentsline {section}{GRAPH THEORY}{109}{Item.390}%
-\contentsline {chapter}{\numberline {15}Matrices}{115}{chapter.15}%
-\contentsline {chapter}{\numberline {16}Trignometry}{117}{chapter.16}%
+\contentsline {section}{COMBINATOMICS}{109}{Item.386}%
+\contentsline {section}{GRAPH THEORY}{109}{Item.387}%
+\contentsline {chapter}{\numberline {15}Matrices}{113}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Trignometry}{115}{chapter.16}%
